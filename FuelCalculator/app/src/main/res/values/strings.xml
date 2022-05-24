@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fuel Calculator</string>
+    <string name="click_me_btn">Click me</string>
+    <string name="clear_btn">Reset</string>
+</resources>
