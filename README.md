@@ -6,3 +6,5 @@ Clone this repository suing https://github.com/sarathsureshh/fuel-calculator.git
 This is a basic application which was created to calculate the mileage of the vehicle and also the amount of fuel that is needed to to put inorder to travel to a desired destination 
 
 If you have read this far, thanks a lot!
+
+What are you waiting for, go ahead and clone the repo to get started.
